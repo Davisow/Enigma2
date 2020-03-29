@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- service references can be found in /etc/enigma2/lamedb -->
+<channels>
+<!-- INFO Movistar + Spain -->
+<!-- INFO Astra (19.2E) -->
+<channel id="LA 1 HD">1:0:19:7863:41A:1:C00000:0:0:0:</channel> <!-- LA 1 -->
+<channel id="La 2">1:0:1:77C2:40A:1:C00000:0:0:0:</channel> <!-- LA 2 -->
+<channel id="ANTENA 3 HD">1:0:19:7534:426:1:C00000:0:0:0:</channel> <!-- Antena 3 -->
+<channel id="CUATRO HD">1:0:19:7535:426:1:C00000:0:0:0:</channel> <!-- CUATRO HD -->
+<channel id="TELECINCO HD">1:0:19:7536:426:1:C00000:0:0:0:</channel> <!-- TELECINCO HD -->
+<channel id="LA SEXTA HD">1:0:19:7537:426:1:C00000:0:0:0:</channel> <!-- LA SEXTA HD -->
+<channel id="#0 HD">1:0:19:788C:414:1:C00000:0:0:0:</channel> <!-- #0 HD -->
+<channel id="#VAMOSHD">1:0:19:74D6:3F8:1:C00000:0:0:0:</channel> <!-- #VAMOSHD -->
+<channel id="M. SERIES HD">1:0:19:7882:414:1:C00000:0:0:0:</channel> <!-- M. SERIES HD -->
+<channel id="M.Seriesmania HD">1:0:19:78B6:3EC:1:C00000:0:0:0: </channel><!-- M.Seriesmania HD -->
+<channel id="FOX HD">1:0:19:7504:420:1:C00000:0:0:0:</channel> <!-- FOX HD -->
+<channel id="AXN HD">1:0:19:7856:41A:1:C00000:0:0:0:</channel> <!-- AXN HD -->
+<channel id="TNT HD">1:0:19:7888:414:1:C00000:0:0:0:</channel> <!-- TNT HD -->
+<channel id="COMEDYCENTRAL">1:0:19:78C0:3EC:1:C00000:0:0:0:</channel> <!-- COMEDYCENTRALHD -->
+<channel id="CALLE 13 HD">1:0:19:7824:428:1:C00000:0:0:0:</channel> <!-- CALLE 13 HD -->
+<channel id="COSMO HD">1:0:19:78B8:3EC:1:C00000:0:0:0:</channel> <!-- COSMO HD -->
+<channel id="AMC HD">1:0:19:7533:426:1:C00000:0:0:0:</channel> <!-- AMC HD -->
+<channel id="FOX LIFE HD">1:0:19:78B5:3EC:1:C00000:0:0:0:</channel> <!-- FOX LIFE HD -->
+<channel id="AXN WHITE HD">1:0:19:74DB:3F8:1:C00000:0:0:0:</channel> <!-- AXN WHITE HD -->
+<channel id="SYFY HD">1:0:19:74CD:3F8:1:C00000:0:0:0:</channel> <!-- SYFY HD -->
+<channel id="MTV SPAIN">1:0:1:74A2:41C:1:C00000:0:0:0:</channel> <!-- MTV ESPAÑA -->
+<channel id="FDF">1:0:1:77BC:40A:1:C00000:0:0:0:</channel> <!-- FDF -->
+<channel id="NEOX">1:0:1:75FE:408:1:C00000:0:0:0:</channel> <!-- NEOX -->
+<channel id="ENERGY">1:0:1:749F:41C:1:C00000:0:0:0:</channel> <!-- ENERGY -->
+<channel id="M.ESTRENOSHD">1:0:19:74D5:3F8:1:C00000:0:0:0:</channel> <!-- M.ESTRENOSHD -->
+<channel id="M.CineDocRoll">1:0:19:74D8:3F8:1:C00000:0:0:0:</channel> <!-- M.CineDocRoll -->
+<channel id="M. DISNEY">1:0:1:749D:41C:1:C00000:0:0:0:</channel> <!-- M. DISNEY -->
+<channel id="M. ACCION HD">1:0:19:7509:420:1:C00000:0:0:0:</channel> <!-- M. ACCIÓN HD -->
+<channel id="Movistar Comedia">1:0:19:7857:41A:1:C00000:0:0:0:</channel> <!-- M.COMEDIA HD -->
+<channel id="M. DRAMA HD">1:0:19:750B:420:1:C00000:0:0:0:</channel> <!-- M. DRAMA HD -->
+<channel id="M. Cine spain">1:0:1:7736:416:1:C00000:0:0:0:</channel> <!-- M. Cine Español -->
+<channel id="TCM HD">1:0:19:7885:414:1:C00000:0:0:0:</channel> <!-- TCM HD -->
+<channel id="HOLLYWOODHD">1:0:19:750C:420:1:C00000:0:0:0:</channel> <!-- HOLLYWOODHD -->
+<channel id="SUNDANCE TV">1:0:1:76A5:41E:1:C00000:0:0:0:</channel> <!-- SUNDANCE TV -->
+<channel id="PARAMOUNT CHANNEL">1:0:1:75F9:408:1:C00000:0:0:0:</channel> <!-- PARAMOUNT CHANNEL -->
+<channel id="#VAMOS HD">1:0:19:74CE:3F8:1:C00000:0:0:0:</channel> <!-- #VAMOS -->
+<channel id="M. LaLiga">1:0:19:750F:420:1:C00000:0:0:0:</channel> <!-- M. LaLiga HD -->
+<channel id="M. LaLiga 1">1:0:19:74ff:420:1:c00000:0:0:0:</channel> <!-- M. LaLiga 1 -->
+<channel id="M. LaLiga 2">1:0:19:7855:41A:1:C00000:0:0:0:</channel> <!-- M. LaLiga 2 -->
+<channel id="M. LaLiga 3">1:0:19:785F:41A:1:C00000:0:0:0:</channel> <!-- M. LaLiga 3 -->
+<channel id="M. LaLiga 4">1:0:19:7859:41A:1:C00000:0:0:0:</channel> <!-- M. LaLiga 4 -->
+<channel id="M. LaLiga 5">1:0:1:76C5:40E:1:C00000:0:0:0:</channel> <!-- M. LaLiga 5 -->
+<channel id="LALIGATV BAR">1:0:1:769A:41E:1:C00000:0:0:0:</channel> <!-- La Liga TV Bar -->
+<channel id="LALIGATVBAR1">1:0:1:7574:412:1:C00000:0:0:0:</channel> <!-- La Liga TV Bar 1 -->
+<channel id="LALIGATVBAR2">1:0:1:7582:412:1:C00000:0:0:0:</channel> <!-- La Liga TV Bar 2 -->
+<channel id="M.LCAMPEONES">1:0:19:78B4:3EC:1:C00000:0:0:0:</channel> <!-- M. Liga CAMPEONES -->
+<channel id="M.LCAMPEON1">1:0:19:7861:41A:1:C00000:0:0:0:</channel> <!-- M. Liga CAMPEONES 1 -->
+<channel id="M.LCAMPEON2">1:0:19:7864:41A:1:C00000:0:0:0:</channel> <!-- M. Liga CAMPEONES 2 -->
+<channel id="M. DEPORTESHD">1:0:19:7828:428:1:C00000:0:0:0:</channel> <!-- M. DEPORTESHD -->
+<channel id="M.DEPORTES1HD">1:0:19:7532:426:1:C00000:0:0:0:</channel> <!-- M. DEPORTES 1 HD -->
+<channel id="M. DEPORTES2">1:0:1:756D:412:1:C00000:0:0:0:</channel> <!-- M. DEPORTES 2 -->
+<channel id="M. DEPORTES3">1:0:1:7573:412:1:C00000:0:0:0:</channel> <!-- M. DEPORTES 3 -->
+<channel id="M.FORMULA1HD">1:0:19:7531:426:1:C00000:0:0:0:</channel> <!-- M. FORMULA 1 HD -->
+<channel id="M. GOLF HD">1:0:19:78B7:3EC:1:C00000:0:0:0:</channel> <!-- M. GOLF HD -->
+<channel id="VAMOSD BAR">1:0:1:778E:424:1:C00000:0:0:0:</channel> <!-- #VAMOS BAR-->
+<channel id="EUROSPORT1HD">1:0:19:7826:428:1:C00000:0:0:0:</channel> <!-- EUROSPORT 1 HD -->
+<channel id="EUROSPORT 2">1:0:1:760E:408:1:C00000:0:0:0:</channel> <!-- EUROSPORT 2 -->
+<channel id="GOL">1:0:1:74A3:41C:1:C00000:0:0:0:</channel> <!-- GOL -->
+<channel id="TELEDEPORTE">1:0:1:76CC:40E:1:C00000:0:0:0:</channel> <!-- TELEDEPORTE -->
+<channel id="CAZAyPESCA HD">1:0:19:788D:414:1:C00000:0:0:0:</channel> <!-- CAZAyPESCA HD -->
+<channel id="IBERALIA TV">1:0:1:746A:3F0:1:C00000:0:0:0:</channel> <!-- IBERALIA TV -->
+<channel id="TOROS HD">1:0:19:782D:428:1:C00000:0:0:0:</channel> <!-- TOROS HD -->
+<channel id="R. MADRID TV">1:0:1:7601:408:1:C00000:0:0:0:</channel> <!-- REAL MADRID TV -->
+<channel id="BAR TV">1:0:1:74A0:41C:1:C00000:0:0:0:</channel> <!-- BARÇA TV -->
+<channel id="NAT GEO HD">1:0:19:7829:428:1:C00000:0:0:0:</channel> <!-- NAT GEO HD -->
+<channel id="NG WILD HD">1:0:19:7889:414:1:C00000:0:0:0:</channel> <!-- NG WILD HD -->
+<channel id="HISTORIA">1:0:1:7731:416:1:C00000:0:0:0:</channel> <!-- HISTORIA -->
+<channel id="DISCOVERY">1:0:1:772F:416:1:C00000:0:0:0:</channel> <!-- DISCOVERY -->
+<channel id="CANAL ODISEA">1:0:1:778A:424:1:C00000:0:0:0:</channel> <!-- CANAL ODISEA -->
+<channel id="BLAZE">1:0:1:772D:416:1:C00000:0:0:0:</channel> <!-- BLAZE -->
+<channel id="VIAJAR HD">1:0:19:74D3:3F8:1:C00000:0:0:0:</channel> <!-- VIAJAR HD -->
+<channel id="CRIMEN+INVES">1:0:1:7732:416:1:C00000:0:0:0:</channel> <!-- CRIMEN+INVES -->
+<channel id="CANAL COCINA">1:0:1:76CE:40E:1:C00000:0:0:0:</channel> <!-- CANAL COCINA -->
+<channel id="CANAL DECASA">1:0:1:7795:424:1:C00000:0:0:0:</channel> <!-- CANAL DECASA -->
+<channel id="DIVINITY">1:0:1:749A:41C:1:C00000:0:0:0:</channel> <!-- DIVINITY -->
+<channel id="NOVA">1:0:1:7469:3F0:1:C00000:0:0:0:</channel> <!-- NOVA -->
+<channel id="BE MAD">1:0:1:7600:408:1:C00000:0:0:0:</channel> <!-- BE MAD -->
+<channel id="CANAL ORBE21">1:0:1:76A4:41E:1:C00000:0:0:0:</channel> <!-- CANAL ORBE21 -->
+<channel id="BABY TV">1:0:1:749C:41C:1:C00000:0:0:0:</channel> <!-- BABY TV -->
+<channel id="DISNEY JR">1:0:1:746B:3F0:1:C00000:0:0:0:</channel> <!-- DISNEY JR -->
+<channel id="CANAL PANDA">1:0:1:75FF:408:1:C00000:0:0:0:</channel> <!-- CANAL PANDA -->
+<channel id="NICK JR">1:0:1:7697:41E:1:C00000:0:0:0:</channel> <!-- NICK JR -->
+<channel id="NICKELODEONHD">1:0:19:7820:428:1:C00000:0:0:0:</channel> <!-- NICKELODEONHD -->
+<channel id="DISNEY XD">1:0:1:772A:416:1:C00000:0:0:0:</channel> <!-- DISNEY XD -->
+<channel id="DISNEY CH HD">1:0:19:788B:414:1:C00000:0:0:0:</channel> <!-- DISNEY CH HD -->
+<channel id="BOING">1:0:1:749E:41C:1:C00000:0:0:0:</channel> <!-- BOING -->
+<channel id="CLAN  TVE">1:0:1:77BE:40A:1:C00000:0:0:0:</channel> <!-- CLAN TVE -->
+<channel id="VH1">1:0:1:6FF0:436:1:C00000:0:0:0:</channel> <!-- VH1 -->
+<channel id="MEZZO">1:0:1:7699:41E:1:C00000:0:0:0:</channel> <!-- MEZZO -->
+<channel id="MEZZO LIVE HD">1:0:19:7823:428:1:C00000:0:0:0:</channel> <!-- MEZZO LIVE HD -->
+<channel id="CLASSICA">1:0:1:7602:408:1:C00000:0:0:0:</channel> <!-- CLASSICA -->
+
+<channel id="PLAYBOY TV">1:0:1:778B:424:1:C00000:0:0:0:</channel> <!-- PLAYBOY TV -->
+<channel id="Beate Uhse TV">1:0:19:85:3:85:C00000:0:0:0:</channel> <!-- Beate Uhse TV -->
+<channel id="(18+) Brazzers TV (22-05)">1:0:16:1009:451:35:C00000:0:0:0:</channel> <!-- Brazzers TV -->
+<channel id="(18+) Hustler TV">1:0:16:100B:451:35:C00000:0:0:0:</channel> <!-- Hustler TV -->
+<channel id="(18+) VividTV">1:0:16:FE0:451:35:C00000:0:0:0:</channel> <!-- Vivid TV -->
+
+<channel id="24 HORAS">1:0:1:7738:416:1:C00000:0:0:0:</channel> <!-- 24 horas -->
+<channel id="BBC World News Europe HD">1:0:1:1389:3EA:1:C00000:0:0:0:</channel> <!-- BBC World News Europe HD -->
+<channel id="CNN Int.">1:0:1:1146:404:1:C00000:0:0:0:</channel> <!-- CNN Int. -->
+<channel id="FOX NEWS">1:0:1:749B:41C:1:C00000:0:0:0:</channel> <!-- FOX NEWS -->
+<channel id="EURONEWS FRENCH SD">1:0:1:79F4:443:1:C00000:0:0:0:</channel> <!-- EURONEWS FRENCH -->
+<channel id="Al Jazeera English">1:0:1:1158:404:1:C00000:0:0:0:</channel> <!-- Al Jazeera English -->
+<channel id="France 24 in English">1:0:1:1AFA:3FE:1:C00000:0:0:0:</channel> <!-- France 24 (in English) -->
+<channel id="RT Esp HD">1:0:1:18F8:3F4:1:C00000:0:0:0:</channel> <!-- RT Esp HD -->
+<channel id="CNBC Europe">1:0:1:272E:402:1:C00000:0:0:0:</channel> <!-- CNBC Europe -->
+<channel id="TV5MONDE EUROPE">1:0:1:1B03:3FE:1:C00000:0:0:0:</channel> <!-- TV5MONDE EUROPE -->
+<channel id="Bloomberg Europe TV">1:0:1:2753:402:1:C00000:0:0:0:</channel> <!-- Bloomberg Europe TV -->
+<channel id="Sky News Intl">1:0:1:1C7A:457:1:C00000:0:0:0:</channel> <!-- Sky News Intl -->
+<channel id="RT Esp HD">1:0:1:18EE:3F4:1:C00000:0:0:0:</channel> <!-- RT Esp HD -->
+<channel id="RT">1:0:1:18EF:3F4:1:C00000:0:0:0:</channel> <!-- RT France HD -->
+<channel id="arte HD">1:0:19:283E:3FB:1:C00000:0:0:0:</channel> <!-- arte HD -->
+<channel id="France 24 en Français">1:0:1:1AF9:3FE:1:C00000:0:0:0:</channel> <!-- France 24 (en Français) -->
+<channel id="France 24 in Arabic">1:0:1:1AFE:3FE:1:C00000:0:0:0:</channel> <!-- France 24 (in Arabic) -->
+<channel id="TELEMAROC">1:0:1:7A4D:410:1:C00000:0:0:0:</channel> <!-- TELEMAROC -->
+<channel id="TV Record SD">1:0:1:7A45:410:1:C00000:0:0:0:</channel> <!-- TV Record -->
+<channel id="Cubavision Internacional">1:0:1:1B60:3FC:1:C00000:0:0:0:</channel> <!-- Cubavision Internacional -->
+<channel id="TELESUR HD">1:0:1:18EC:3F4:1:C00000:0:0:0:</channel> <!-- TELESUR HD -->
+<channel id="NHK WORLD-JPN">1:0:1:139D:3EA:1:C00000:0:0:0:</channel> <!-- NHK WORLD-JPN -->
+<channel id="Arirang TV">1:0:1:1B63:3FC:1:C00000:0:0:0:</channel> <!-- Arirang TV -->
+<channel id="CANAL SUR A.">1:0:1:7729:416:1:C00000:0:0:0:</channel> <!-- CANAL SUR -->
+<channel id="TV Galicia">1:0:1:7A4A:410:1:C00000:0:0:0:</channel> <!-- GALICIA -->
+<channel id="EXTREMADURA SAT">1:0:1:18F0:3F4:1:C00000:0:0:0:</channel> <!-- EXTREMADURA -->
+<channel id="ARAGON TV INT">1:0:1:75FD:408:1:C00000:0:0:0:</channel> <!-- ARAGON TV INT -->
+<channel id="ALQUILER 1">1:0:1:768E:41E:1:C00000:0:0:0:</channel> <!-- ALQUILER 1 -->
+<channel id="ALQUILER 2">1:0:1:768F:41E:1:C00000:0:0:0:</channel> <!-- ALQUILER 2 -->
+<channel id="ALQUILER 3">1:0:1:7567:412:1:C00000:0:0:0:</channel> <!-- ALQUILER 3 -->
+<channel id="ALQUILER 4">1:0:1:756F:412:1:C00000:0:0:0:</channel> <!-- ALQUILER 4 -->
+<channel id="ALQUILER 5">1:0:1:7565:412:1:C00000:0:0:0:</channel> <!-- ALQUILER 5 -->
+<channel id="ALQUILER 6">1:0:1:7566:412:1:C00000:0:0:0:</channel> <!-- ALQUILER 6 -->
+<channel id="ALQUILER HD">1:0:19:7854:41A:1:C00000:0:0:0:</channel> <!-- ALQUILER HD -->
+<channel id="ALQUILER 2 HD">1:0:19:785E:41A:1:C00000:0:0:0:</channel> <!-- ALQUILER 2 HD -->
+
+<channel id="ZDF HD">1:0:19:2B66:3F3:1:C00000:0:0:0:</channel> <!-- ZDF HD -->
+<channel id="RTL HD">1:0:19:EF10:421:1:C00000:0:0:0:</channel> <!-- RTL HD -->
+<channel id="SAT.1 HD">1:0:19:EF74:3F9:1:C00000:0:0:0:</channel> <!-- SAT HD -->
+<channel id="ProSieben HD">1:0:19:EF75:3F9:1:C00000:0:0:0:</channel> <!-- ProSieben HD -->
+<channel id="VOX HD">1:0:19:EF11:421:1:C00000:0:0:0:</channel> <!-- VOX HD -->
+<channel id="kabel eins HD">1:0:19:EF76:3F9:1:C00000:0:0:0:</channel> <!-- Kabel Eins HD -->
+<channel id="RTL II HD">1:0:19:EF15:421:1:C00000:0:0:0:</channel> <!-- RTL II HD -->
+<channel id="SUPER RTL HD">1:0:19:2E9B:411:1:C00000:0:0:0:</channel> <!-- SUPER RTL HD -->
+<channel id="DMAX HD">1:0:19:151A:455:1:C00000:0:0:0:</channel> <!-- DMAX HD -->
+<channel id="ProSieben MAXX">1:0:19:EF78:3F9:1:C00000:0:0:0:</channel> <!-- ProSieben MAXX -->
+<channel id="TLC">1:0:19:2774:409:1:C00000:0:0:0:</channel> <!-- TLC HD -->
+
+<channel id="3sat HD">1:0:19:2B8E:3F2:1:C00000:0:0:0:</channel> <!-- 3sat HD -->
+<channel id="ServusTV">1:0:19:1332:3EF:1:C00000:0:0:0:</channel> <!-- Servus TV -->
+<channel id="ServusTV HD">1:0:1:3336:45B:1:C00000:0:0:0:</channel> <!-- Servus TV HD -->
+
+#Canales TDT
+<channel id="La 1 HD">1:0:1:216:3F4:22D4:EEEE0000:0:0:0:</channel> <!-- La 1 HD -->
+<channel id="La 2 HD">1:0:19:21A:3F4:22D4:EEEE0000:0:0:0:</channel> <!-- La 2 HD -->
+<channel id="Clan HD">1:0:19:9C41:9C40:22D4:EEEE0000:0:0:0:</channel>
+<channel id="tdp HD">1:0:19:9C43:9C40:22D4:EEEE0000:0:0:0:</channel>
+<channel id="Telemadrid HD">1:0:19:1A9:1838:22D4:EEEE0000:0:0:0:</channel> <!-- Telemadrid HD -->
+<channel id="La Otra">1:0:19:3B88:1838:22D4:EEEE0000:0:0:0:</channel> <!-- La Otra -->
+<channel id="PARAMOUNT NETWORK">1:0:1:CA:E:22D4:EEEE0000:0:0:0:</channel> <!-- Paramount Network -->
+<channel id="Realmadrid TV HD">1:0:19:67:12:22D4:EEEE0000:0:0:0:</channel> <!-- Realmadrid TV HD-->
+<channel id="BeMad tv HD">1:0:19:66:12:22D4:EEEE0000:0:0:0:</channel> <!-- BE MAD HD -->
+<channel id="DMAX">1:0:1:115:E:22D4:EEEE0000:0:0:0:</channel> <!-- DMAX -->
+<channel id="Mega">1:0:1:9B:11:22D4:EEEE0000:0:0:0:</channel> <!-- Mega HD -->
+<channel id="DKISS">1:0:1:A029:9C40:22D4:EEEE0000:0:0:0:</channel> <!-- DKISS -->
+<channel id="TEN">1:0:1:A033:9C40:22D4:EEEE0000:0:0:0:</channel> <!-- TEN -->
+<channel id="TRECE">1:0:1:F3E:27:22D4:EEEE0000:0:0:0:</channel> <!-- 13 TV -->
+<channel id="Intereconomía">1:0:1:F3F:27:22D4:EEEE0000:0:0:0:</channel> <!-- Intereconomía -->
+<channel id="antena3 HD">1:0:19:95:F:22D4:EEEE0000:0:0:0:</channel>
+<channel id="Neox">1:0:1:99:F:22D4:EEEE0000:0:0:0:</channel>
+<channel id="nova">1:0:1:9A:F:22D4:EEEE0000:0:0:0:</channel>
+<channel id="atreseries HD">1:0:19:65:12:22D4:EEEE0000:0:0:0:</channel>
+<channel id="laSexta HD">1:0:19:97:F:22D4:EEEE0000:0:0:0:</channel>
+<channel id="Cuatro HD">1:0:19:BF:10:22D4:EEEE0000:0:0:0:</channel>
+<channel id="Telecinco HD">1:0:19:BE:10:22D4:EEEE0000:0:0:0:</channel>
+<channel id="Divinity">1:0:1:BD:10:22D4:EEEE0000:0:0:0:</channel>
+<channel id="Energy">1:0:1:C0:11:22D4:EEEE0000:0:0:0:</channel>
+<channel id="Boing">1:0:1:C1:11:22D4:EEEE0000:0:0:0:</channel>
+
+"></channel>
+
+
+
+</channels>
